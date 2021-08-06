@@ -2,7 +2,7 @@
 
 <br>
 
-![badge](https://img.shields.io/badge/license--brightgreen)<br />
+![badge](https://img.shields.io/apm/l/ecommercebackend?style=flat-square)<br />
 
 ## Description 
 
@@ -12,7 +12,7 @@ This is a great tool to use for a create read update delete platform for any nee
 * [Installation](#installation)
 * [Usage](#usage)
 * [Contributing](#contributing)
-* [Tests](#testing)
+* [Look out video](#look)
 * [Questions](#questions)
 ## Installation
 download a copy to yoour computer and run the program with npm install then node server.js
@@ -25,9 +25,10 @@ undefined
   
 *If you would like to contribute it, you can follow these guidelines for how to do so.*
 please fork the project to contribute.
-## Testing
-*Please follow these directions to test the app.
-no test
+## Look
+![GitHub Logo](/assets/backend-ecommerce.png)
+Video Demo: [ video recording ](https://drive.google.com/file/d/1c3Zysulc0w-ZpZYZGbyYBD7333F31GL7/view)
+
 ## Questions
 
 *If you have a concern or input abou the project, you can contact:*
